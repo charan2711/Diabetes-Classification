@@ -12,5 +12,6 @@ It can be found [[here](https://www.kaggle.com/uciml/pima-indians-diabetes-datab
 
 # Results
 Achieved  accuracy of 81.81%
+<br/>
 Achieved F1-Score of 69.59%
 
