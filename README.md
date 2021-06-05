@@ -1,6 +1,6 @@
 # Diabetes-Classification
 
-# Description
+## Description
 Diabetes is a disorder in which your blood glucose, commonly known as blood sugar, levels are too high. Blood glucose, which originates from the food you eat, is your major source of energy. Diabetes affects an estimated 77 million people in India, making it the world's second most impacted behind China. India accounts for one-sixth (17%) of the world's diabetics.India's population as calculated in October 2018 was about 17.5% of the global total.
 
 ## AIM
