@@ -12,7 +12,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 It can be found [here](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 ## Results
-I have used KNN classification <br/>
+I have used KNN classification for this problem. <br/>
 Achieved  accuracy of 81.81%
 <br/>
 Achieved F1-Score of 69.59%
